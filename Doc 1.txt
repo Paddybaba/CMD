@@ -1,1 +1,3 @@
 Hi this is Document number 1
+
+Addition made in newBranch
