@@ -1,3 +1,5 @@
 This is document number 2
 
 Changes made by folder2
+
+Change 3
